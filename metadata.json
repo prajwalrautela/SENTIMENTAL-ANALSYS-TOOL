@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis Tool",
+  "description": "AI-powered sentiment analysis tool for text data and movie reviews with real-time polarity scoring, aspect breakdown, and smooth animated visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
